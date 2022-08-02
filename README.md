@@ -8,5 +8,6 @@
 * [Day5](https://github.com/hilalkrnz/HacerRank-30-Days-Of-Code/blob/master/HackerRank30DaysOfCode/app/src/main/java/com/info/hackerrank30daysofcode/Day5.kt)
 * [Day6](https://github.com/hilalkrnz/HacerRank-30-Days-Of-Code/blob/master/HackerRank30DaysOfCode/app/src/main/java/com/info/hackerrank30daysofcode/Day6.kt)
 * [Day7](https://github.com/hilalkrnz/HacerRank-30-Days-Of-Code/blob/master/HackerRank30DaysOfCode/app/src/main/java/com/info/hackerrank30daysofcode/Day7.kt)
- 
+* [Day8](https://github.com/hilalkrnz/HacerRank-30-Days-Of-Code/blob/master/HackerRank30DaysOfCode/app/src/main/java/com/info/hackerrank30daysofcode/Day8.kt)
+* [Day9](https://github.com/hilalkrnz/HacerRank-30-Days-Of-Code/blob/master/HackerRank30DaysOfCode/app/src/main/java/com/info/hackerrank30daysofcode/Day9.kt)
  
